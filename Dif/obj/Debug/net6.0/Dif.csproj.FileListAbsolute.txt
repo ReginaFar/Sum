@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\Dif.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\Dif.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\Dif.AssemblyInfo.cs
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\Dif.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Example\Dif\bin\Debug\net6.0\Dif.exe
+C:\Users\user\Desktop\Example\Dif\bin\Debug\net6.0\Dif.deps.json
+C:\Users\user\Desktop\Example\Dif\bin\Debug\net6.0\Dif.runtimeconfig.json
+C:\Users\user\Desktop\Example\Dif\bin\Debug\net6.0\Dif.dll
+C:\Users\user\Desktop\Example\Dif\bin\Debug\net6.0\Dif.pdb
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\Dif.dll
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\refint\Dif.dll
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\Dif.pdb
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\Dif.genruntimeconfig.cache
+C:\Users\user\Desktop\Example\Dif\obj\Debug\net6.0\ref\Dif.dll
